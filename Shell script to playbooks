@@ -1,3 +1,5 @@
 https://www.jakelitwicki.com/2015/09/03/convert-bash-script-to-ansible-playbook/
 
 https://docs.ansible.com/ansible/latest/modules/script_module.html
+
+https://stackoverflow.com/questions/21160776/how-to-execute-a-shell-script-on-a-remote-server-using-ansible
